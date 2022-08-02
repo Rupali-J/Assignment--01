@@ -1,4 +1,4 @@
-a = ["one", "two", "third", "four"]
+a = ["nami", "robin", "luffy", "zoro"]
 def longestLength(a):
     max1 = len(a[0])
     temp = a[0]
